@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tasheej/static/css/main.1fa81ff4.chunk.css",
+    "main.js": "/tasheej/static/js/main.7f54a7c6.chunk.js",
+    "main.js.map": "/tasheej/static/js/main.7f54a7c6.chunk.js.map",
+    "runtime~main.js": "/tasheej/static/js/runtime~main.72cb45b4.js",
+    "runtime~main.js.map": "/tasheej/static/js/runtime~main.72cb45b4.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/tasheej/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/tasheej/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/tasheej/index.html",
+    "precache-manifest.993f3956e41808ebf233ccc5463613f8.js": "/tasheej/precache-manifest.993f3956e41808ebf233ccc5463613f8.js",
+    "service-worker.js": "/tasheej/service-worker.js",
+    "static/css/main.1fa81ff4.chunk.css.map": "/tasheej/static/css/main.1fa81ff4.chunk.css.map",
+    "static/media/App.css": "/tasheej/static/media/main_900.cf44dea9.jpg"
+  }
+}
